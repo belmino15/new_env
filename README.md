@@ -42,7 +42,7 @@ Simple procedure and basic requirements for new python environment
 
 ## Remove a conda environment
 - Deactivate the env
-> conda activate base
+> conda deactivate
 
 - Then remove the environment
-> conda env remove -n shiny_new_env
+> conda remove --name shiny_new_env --all
