@@ -1,4 +1,4 @@
-# New python environment
+# New python Environment
 Simple procedure and basic requirements for new python environment
 
 ----------------------------------------------------
